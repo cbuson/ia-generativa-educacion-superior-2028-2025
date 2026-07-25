@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 12000
+tailleuc1 = 12
+nbcl = 4
+tailleuc2 = 14
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 12
+svdmethod = irlba
+mode.patate = 1
+corpus = 415cf9a1-4019-4617-ae3a-bf23cb2f4025
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ia iramuteq 200 libros\corpus\iramuteq_corpus4_corpus_1\iramuteq_corpus4_alceste_36
+uuid = d3e86e00-f313-410a-ae05-6bf1f45d76d5
+name = iramuteq_corpus4_alceste_36
+eff_min_forme = 8
+nbactives = 10757
+clnb = 3
+time = 0h 32m 49s
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ia iramuteq 200 libros\corpus\iramuteq_corpus4_corpus_1\iramuteq_corpus4_alceste_36\Analyse.ira
